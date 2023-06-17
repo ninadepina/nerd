@@ -1,4 +1,4 @@
-# Frontend Development Setup Triple (by Chanel)
+# Frontend Development Setup Triple by Chanel Mepschen
 
 The purpose of this documentation is to provide an overview of the recommended frontend development setup triple. This setup includes various tools and practices to enhance productivity, ensure code quality, and facilitate efficient deployment. The following sections outline the key components of the frontend development setup.
 

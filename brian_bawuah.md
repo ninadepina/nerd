@@ -1,4 +1,4 @@
-# Brian Bawuah
+# Immersive environments on the web by Brian Bawuah
 
 -   Currently works at Team Rockstars IT
 

@@ -1,4 +1,4 @@
-# Hidde de Vries
+# Modal Mischief & Dialog Dilemmas by Hidde de Vries
 
 Accessibility expert
 
