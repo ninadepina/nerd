@@ -4,7 +4,7 @@ In the world of web development, it's not uncommon to encounter situations where
 
 ## The Quest for Data
 
-Recently, [our team](https://github.com/ChrisvanHvA/Appclusive) found ourselves in a situation where we needed content for our application ('Appclusive', app for designers/developers to incorporate accessibility into their project) but had received the API link much later than anticipated. To overcome this hurdle, we took matters into our own hands. After some searching, we stumbled upon a website that had conveniently rewritten the Web Content Accessibility Guidelines (WCAG) into a more user-friendly format. Eager to acquire this valuable content, I decided to scrape the website.
+Recently, [our team](https://github.com/ChrisvanHvA/Appclusive) found ourselves in a situation where we needed content for our application ("Appclusive", app for designers/developers to incorporate accessibility into their project) but had received the API link much later than anticipated. To overcome this hurdle, we took matters into our own hands. After some searching, we stumbled upon a website that had conveniently rewritten the Web Content Accessibility Guidelines (WCAG) into a more user-friendly format. Eager to acquire this valuable content, I decided to scrape the website.
 
 ## Getting Started with Web Scraping
 
@@ -259,3 +259,12 @@ fs.writeFileSync('data.json', updatedData);
 That's it! Web scraping proved to be an invaluable tool in extracting WCAG guidelines from a user-friendly website when faced with API delays. Through the use of Puppeteer and Node.js, we were able to navigate the DOM, interact with hidden elements, and scrape the required data. Additionally, we leveraged scraping techniques to retrieve missing information and matched it with the relevant WCAG items. By incorporating our scraping code into our project, we successfully obtained a comprehensive dataset that facilitated the accessibility implementation of our website.
 
 Web scraping opens up a world of possibilities for obtaining data from various sources. However, it's important to exercise caution and adhere to legal and ethical guidelines when scraping websites. Always ensure that you have proper authorization or are scraping from publicly available and non-sensitive information. Happy scraping!
+
+## References
+
+-   LearnWebCode. (2021, July 26). _Web Scraping with Puppeteer & Node.js: Chrome Automation_ [Video]. YouTube. [https://www.youtube.com/watch?v=lgyszZhAZOI](https://www.youtube.com/watch?v=lgyszZhAZOI)
+-   _Puppeteer / Node.js Automation & Web Scraping Tutorial from YouTube._ (n.d.). Gist. https://gist.github.com/LearnWebCode/31f8a20ef7e4324aca322a21dbfc3d7e
+-   _npm: puppeteer._ (n.d.). Npm. [https://www.npmjs.com/package/puppeteer](https://www.npmjs.com/package/puppeteer)
+-   _npm: fs._ (n.d.). Npm. https://www.npmjs.com/package/fs
+-   _Checklist - The A11Y Project._ (n.d.). https://www.a11yproject.com/checklist/
+-   Initiative, W. W. A. (n.d.). _WCAG 2 Overview._ Web Accessibility Initiative (WAI). https://www.w3.org/WAI/standards-guidelines/wcag/
