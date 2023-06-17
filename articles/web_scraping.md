@@ -18,7 +18,7 @@ During the scraping process, I encountered a challenge. Some items of interest w
 
 After overcoming the hurdle of hidden content, I proceeded to scrape the required information and store it in a structured format. I chose to use JSON as it offers simplicity and compatibility with various programming languages. By organizing the scraped data into a JSON file, I ensured its usability across different components of our project.
 
-Now, let's explore the code I utilized for web scraping. Keep in mind that this code assumes you have Node.js and Puppeteer (a Node.js library that provides a high-level API for controlling headless Chrome or Chromium) set up in your development environment. 
+Now, let's explore the code I utilized for web scraping (please not that variables like `wcagCategoryId` and `wcagItemId` are added for storing the items in a database, they have nothing to do with the actual scraping). Keep in mind that this code assumes you have Node.js and Puppeteer (a Node.js library that provides a high-level API for controlling headless Chrome or Chromium) set up in your development environment. 
 
 ```js
 // Importing necessary libraries
