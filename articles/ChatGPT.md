@@ -30,4 +30,4 @@ ChatGPT has revolutionized the way we interact with AI-powered conversational ag
 
 ## References
 
-1. _OpenAI._ (2021). ChatGPT [Computer software]. [https://openai.com](https://openai.com)
+-   _OpenAI._ (2021). ChatGPT [Computer software]. [https://openai.com](https://openai.com)

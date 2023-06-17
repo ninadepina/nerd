@@ -18,6 +18,6 @@ Happy coding and happy naming!
 
 ## References
 
-1. _The importance of naming in programming | The Man in the Arena._ (n.d.). The Man in the Arena. [https://carlalexander.ca/importance-naming-programming/](https://carlalexander.ca/importance-naming-programming/)
-2. Dhakal, U. (2021, December 9). Naming things in programming - HackerNoon.com - Medium. _Medium._ [https://medium.com/hackernoon/naming-the-things-in-programming-230590016f00](https://medium.com/hackernoon/naming-the-things-in-programming-230590016f00)
-3. Pujari, V. (2022, July 9). A Guide for Naming Things in Programming - Level Up Coding. _Medium._ [https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)
+-   _The importance of naming in programming | The Man in the Arena._ (n.d.). The Man in the Arena. [https://carlalexander.ca/importance-naming-programming/](https://carlalexander.ca/importance-naming-programming/)
+-   Dhakal, U. (2021, December 9). Naming things in programming - HackerNoon.com - Medium. _Medium._ [https://medium.com/hackernoon/naming-the-things-in-programming-230590016f00](https://medium.com/hackernoon/naming-the-things-in-programming-230590016f00)
+-   Pujari, V. (2022, July 9). A Guide for Naming Things in Programming - Level Up Coding. _Medium._ [https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8](https://levelup.gitconnected.com/a-guide-for-naming-things-in-programming-2dc2d74879f8)
