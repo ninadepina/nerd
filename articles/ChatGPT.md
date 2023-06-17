@@ -26,7 +26,7 @@ ChatGPT represents a significant milestone in the journey toward more advanced a
 
 ## Conclusion
 
-ChatGPT has revolutionized the way we interact with AI-powered conversational agents. Its ability to generate coherent and contextually appropriate responses has captivated the world. As we move forward, it is crucial to ensure that AI systems like ChatGPT are developed ethically and responsibly, promoting transparency and fairness. With its continued advancements and potential applications, ChatGPT paves the way for a future where AI and humans seamlessly collaborate, driving innovation and transforming various aspects of our daily lives.
+ChatGPT has revolutionized the way we interact with AI-powered conversational agents. Its ability to generate coherent and contextually appropriate responses has captivated the world. However, it's important to acknowledge that ChatGPT has certain limitations. It may not have access to all information available on the internet and should not be trusted blindly. As we move forward, it is crucial to ensure that AI systems like ChatGPT are developed ethically and responsibly, promoting transparency and fairness. With its continued advancements and potential applications, ChatGPT paves the way for a future where AI and humans seamlessly collaborate, driving innovation and transforming various aspects of our daily lives.
 
 ## References
 
