@@ -29,11 +29,11 @@ import { promises as fs } from 'fs';
 async function start() {
 	const browser = await puppeteer.launch({ headless: 'new' });
 	const page = await browser.newPage();
-	await page.goto('https://www.a11yproject.com/checklist/');
+	await page.goto('https://www.a11yproject.com/checklist/'); // Page to be scraped
 
 	// Scraping data using page evaluation
 	const data = await page.evaluate(() => {
-		// Extracting categories
+		// Extracting categories (based on id, class, attribute, etc.)
 		const categories = Array.from(document.querySelectorAll('[data-checklist-category]'));
 		let wcagCategoryId = 1;
 		let wcagItemId = 1;
@@ -42,7 +42,7 @@ async function start() {
 			// Extracting item information
 			const description = item.querySelector('.c-checklist__title').innerHTML;
 			const detailButton = item.querySelector('.c-checklist__summary');
-			await detailButton.click();
+			await detailButton.click(); // Simulating a click to reveal hidden content
 			const wcagLink = item.querySelector('.c-checklist__link');
 			const title = wcagLink ? wcagLink.textContent.replace(/^\d+\.\d+\.\d+\s*/, '') : null;
 			const tip_description = wcagLink ? item.querySelector('.c-checklist__description').innerHTML : null;
