@@ -1,8 +1,8 @@
 # The Art of Naming in Programming
 
-Have you ever heard the saying, "There are only two hard things in programming: cache invalidation and naming things"? Well, let me tell you, I've been there (and might still be there a little) too! As a fellow developer, I understand the struggles we face when it comes to giving our code meaningful and clear names. So, I decided to dig deeper into this naming dilemma and share what I've learned.
+Ever heard of the saying; "There are only two hard things in programming: cache invalidation and naming things"? In this article I'll share some tips on how to improve your naming skills and make your code more readable. I'll be doing this not only for you but also for myself because it's a problem I still struggle with.
 
-First things first, when you're coding, it's crucial to fully grasp the problem you're trying to solve. Sometimes we get so absorbed in our work that we forget how others perceive the problem. So, take a step back, explore the problem from different angles, and make sure you can explain it in a way that even your grandma would understand (well, maybe not exactly, but you get the idea).
+To start of, when you're coding, it's important to completely understand the problem you're trying to solve. Sometimes we get so caught up in our work that we forget how other people see the problem. So, to begin with, try to encounter the problem from different angles, and make sure you can explain it in a way that even your grandma would understand (well, maybe not exactly, but you get the idea).
 
 One cool concept I stumbled upon is called the "ubiquitous language." It's all about using a common vocabulary between developers and stakeholders. Instead of assuming everyone knows what we mean by certain terms, we should align our language to avoid misunderstandings. For example, if we say "user," it might mean something different to non-dev folks. So, let's be clear and specify if we mean a customer, a company, or something else.
 
