@@ -6,15 +6,15 @@ To start of, when you're coding, it's important to completely understand the pro
 
 One cool concept I stumbled upon is called the "ubiquitous language." It's all about using a common vocabulary between developers and stakeholders. Instead of assuming everyone knows what we mean by certain terms, we should align our language to avoid misunderstandings. For example, if we say "user," it might mean something different to non-dev folks. So, let's be clear and specify if we mean a customer, a company, or something else.
 
-Empathy is key here too. Think about the poor souls (including your future self) who will have to work with your code down the line. Using clear and explicit names will make their lives so much easier. Trust me, you don't want them cursing your coding skills in the middle of the night.
+Empathy is key here too. Think about everyone (including your future self) who will have to work with your code down the line. Using clear and explicit names will make their lives so much easier. You don't want them cursing your coding skills in the middle of the night.
 
-Now, let's talk about naming things directly in your code. Clarity and conciseness should be your best friends. No more arbitrary names or confusing abbreviations! Descriptive names that leave no room for interpretation are the way to go. And remember, keeping functions and methods small helps a lot. When they have a single responsibility, you can give them focused and accurate names that describe exactly what they do.
+Now, let's talk about naming things directly in your code. Clarity and conciseness should be your best friends. No more arbitrary names or confusing abbreviations! Descriptive names that leave no room for interpretation are the way to go. And keep functions and methods small helps a lot. When they have a single responsibility, you can give them focused and accurate names that describe exactly what they do. 
 
-Oh, and a little tip: if you find yourself adding a ton of comments to explain why something is named the way it is, that's a sign that your naming skills might need a little TLC. Code should be self-explanatory, so rely on clear names rather than excessive comments. Nobody likes playing the game of matching comments with code and getting lost in the process.
+Sometimes, a boolean is used to indicate a state. In that case, it's a good idea to use the boolean in its positive form. So using `isValid` instead of `isInvalid`. This makes it a lot easier to read when you want to invert the function. You'll immediately know what `!isValid` means, `!isInvalid` might be a bit more confusing.
 
-Programming is not just about problem-solving; it's like a form of writing that others will read. So, take the time to master your naming conventions. Practice makes perfect, my friend. By following these guidelines, you'll improve the quality of your code and make it more readable for yourself and others.
+Oh, and a little tip I came across: if you find yourself adding a ton of comments to explain why something is named the way it is, that's a sign that your naming skills might need a little TLC. Code should be self-explanatory, so rely on clear names (don't hesitate on using longer names) rather than excessive comments. Nobody likes playing the game of matching comments with code and getting lost in the process.
 
-Happy coding and happy naming!
+Programming is not just about problem-solving; it's also a form of writing that others have to read and understand. So, take the time to master your naming conventions. Practice makes perfect. By following these guidelines, you'll improve the quality of your code and make it more readable for yourself and others.
 
 ## References
 
