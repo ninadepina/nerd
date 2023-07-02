@@ -1,4 +1,4 @@
-# CSS Units
+# CSS Units Decoded
 
 When it comes to styling elements on a web page, CSS (Cascading Style Sheets) provides a multitude of options for determining the size of various properties. The choice of CSS units is crucial for creating a visually appealing and responsive design that adapts well to different screen sizes. In this article, we will explore the different CSS units available and when to use them.
 

@@ -18,6 +18,6 @@ Welcome to my Weekly Nerd repository! This is where you'll find a collection of 
 
 ## Articles
 
--   [I let ChatGPT write an article about ChatGPT](articles/ChatGPT.md)
+-   [CSS Units Decoded](articles/css_units.md)
 -   [The Art of Naming in Programming](articles/naming_things.md)
 -   [Web Scraping: Empowering Data Acquisition for Your Projects](articles/web_scraping.md)
